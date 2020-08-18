@@ -12,6 +12,18 @@ filename: index
 #### What is patrickandfrantonarethebestninjas?
 This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
 
+# Hello World
+## This is my new website
+
+This is some content I put in there
+
+```lua
+local myVar = {}
+myVar.first = 123
+```
+
+
+
 
 #### How can I use patrickandfrantonarethebestninjas?
 Come to office hours and git tutorials. Baked goods and cash are also accepted.
