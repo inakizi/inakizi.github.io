@@ -1,5 +1,6 @@
 ---
 title: False Tap Stop
+filename: FalseTapStop
 subtitle: Prevent false taps when using "Tap to click" on your Mac
 description: Fasle Tap Stop is a macOS app that prevents false taps when you have "Tap to click" configured in your Mac.
 type: macOS
