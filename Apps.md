@@ -1,6 +1,6 @@
 ---
 title: Apps
-layout: template
+layout: page
 filename: Apps
 --- 
 
