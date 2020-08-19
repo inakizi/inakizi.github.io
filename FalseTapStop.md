@@ -92,6 +92,13 @@ Please report it here:
 
 <br>
 
+#### What is your privacy policy?
+
+We do not collect user information in the False Tap Stop Application.
+
+[Privacy Policy](/FalseTapStopPrivacy)
+
+
 #### Can you add support for macOS 10.13 or older?
 
 No
@@ -99,3 +106,4 @@ No
 #### Can you localize the app into my language?
 
 I don't have any immediate plans to localize the app.
+
