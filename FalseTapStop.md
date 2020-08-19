@@ -1,11 +1,39 @@
 ---
-title: <img src="/assets/img/fts/AppIcon_512_2x.png" width="100px" >&nbsp;&nbsp;False Tap Stop
+title: False Tap Stop
 filename: FalseTapStop
 layout: page
 subtitle: Prevent false taps when using "Tap to click" on your Mac
 description: Fasle Tap Stop is a macOS app that prevents false taps when you have "Tap to click" configured in your Mac.
 ---
 
+<style type="text/css" media="screen">
+
+.form-item {
+   width: 100%;
+}
+
+.form-item label {
+   display: block;
+}
+
+.form-item input {
+   width: 100%;
+}
+
+.form-item textarea {
+   width: 100%;
+}
+
+.centered-image {
+   width: 100%;
+   text-align: center;
+}
+
+</style>
+
+<div class="centered-image">
+<img src="/assets/img/fts/AppIcon_512_2x.png" width="200px" >&nbsp;&nbsp;
+</div>
 
 **False Tap Stop** Is a macOS application that prevents false taps when you have “Tap to click” configured in your Mac. It makes your Mac to ignore taps if they occur while keys are being pressed in the keyboard. The time to ignore taps after a key has been pressed is configurable in the application menu.
 
@@ -28,26 +56,6 @@ Open “System Preferences” and click on “Security & Privacy”. “False Ta
 
 Please report it here:
 <script defer src="https://js.statickit.com/statickit.js"></script>
-<style type="text/css" media="screen">
-
-.form-item {
-   width: 100%;
-}
-
-.form-item label {
-   display: block;
-}
-
-.form-item input {
-   width: 100%;
-}
-
-.form-item textarea {
-   width: 100%;
-}
-
-
-</style>
 
 
 <form id="my-form">
