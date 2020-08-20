@@ -37,7 +37,9 @@ description: Fasle Tap Stop is a macOS app that prevents false taps when you hav
 
 **False Tap Stop** Is a macOS application that prevents false taps when you have “Tap to click” configured in your Mac. It makes your Mac to ignore taps if they occur while keys are being pressed in the keyboard. The time to ignore taps after a key has been pressed is configurable in the application menu.
 
-![Download on the App Store](Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)
+<a href="https://apps.apple.com/us/app/false-tap-stop/id1527927324?mt=12">
+<img src="/assets/img/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg">
+</a>
 
 <img src="/assets/img/fts/mainscreen.png" >
 
