@@ -13,6 +13,8 @@ author: Iñaki Zuloaga
 
 navbar-links:
 #  About Me: "aboutme"
+  Blog:
+    - Take your high reliability control system to the stars: "/blog/ControlSystemToTheStars/"
   Apps&nbsp&nbsp&nbsp&nbsp&nbsp:
     - False Tap Stop: "FalseTapStop"
 #  Author's home: "https://deanattali.com"
